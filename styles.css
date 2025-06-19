@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+.testimonial{
+	background-color: #f5f5f5;
+	border: 10px solid black;
+	margin: 50px auto;
+    padding: 20px;
+}
+.testimonial-1{
+	background-color:white;
+	border: 1px solid black;
+	margin: 50px auto;
+    padding: 20px;
+}
+
+.testimonial-author{
+	text-align:right;
+}
